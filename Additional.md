@@ -1,1 +1,2 @@
-### Some test MD file
+### Some test
+## Required string
