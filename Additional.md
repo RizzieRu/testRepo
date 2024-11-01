@@ -1,2 +1,3 @@
-### Some test MD file
-### Conflict
+### Some test
+## Required string
+# Another string
